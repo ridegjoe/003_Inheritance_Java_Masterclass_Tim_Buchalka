@@ -24,6 +24,8 @@ public class Main {
         //
         // END OF CHALLENGE FOR INHERITANCE
         //
+        // https://www.udemy.com/java-the-complete-java-developer-course/
+        //
         // The code with the solution is made by myself.
 
         Car newCar = new Car("A3", "TFSI", 2.0,6,0,0);
